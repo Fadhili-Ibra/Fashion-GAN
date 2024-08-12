@@ -9,6 +9,9 @@ Generative Adversarial Networks (GANs) are powerful deep learning models used fo
 Before we start, ensure you have the following Python libraries installed:
 
 a. TensorFlow
+
 b. Keras
+
 c. NumPy
+
 d. Matplotlib
