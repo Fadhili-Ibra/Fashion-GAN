@@ -2,7 +2,7 @@
 
 1. *Introduction*
 
-Generative Adversarial Networks (GANs) are powerful deep learning models used for generating new data samples that resemble a given dataset. In this guide, we will build a GAN to generate fashion images using the Fashion-MNIST dataset. This dataset contains grayscale images of fashion items such as shoes, shirts, and dresses.
+Generative Adversarial Networks (GANs) are powerful deep learning models used for generating new data samples that resemble a given dataset. I built a GAN to generate fashion images using the Fashion-MNIST dataset. This dataset contains grayscale images of fashion items such as shoes, shirts, and dresses.
 
 2. *Prerequisites*
    
